@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/HEURGne9Vj856oivkD" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-HEURGne9Vj856oivkD">via GIPHY</a></p>
+<img align ="center" src="https://media.giphy.com/media/HEURGne9Vj856oivkD/giphy.gif" width="300">
 
 <h1 align="center">Hola,soy Robinson</h1>
 <h3 align="center">Estudiante de 2do año de Desarrollo de Software del CENT 35</h3>
