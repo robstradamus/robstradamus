@@ -1,7 +1,7 @@
 <div align="center">
   <img  src="https://media.giphy.com/media/HEURGne9Vj856oivkD/giphy.gif" width="300">
 </div>
-<h1 align="center">Hola,soy Robinson</h1>
+<h1 align="center">Hola, soy Robinson</h1>
 <h3 align="center">Estudiante de 2do año de Desarrollo de Software del CENT 35</h3>
 
 <h3 align="left">Connect with me:</h3>
