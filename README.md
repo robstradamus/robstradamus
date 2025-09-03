@@ -2,7 +2,7 @@
   return "Hola, soy Robinson"</code></h1>
 <h3 align="center"># Estudiante de Programación (UTN)</h3>
 
-## 🧑‍💻 Acerca de mí
+## 🖥️ Acerca de mí
 
 - 🎓 Actualmente estudio en la **UTN (Universidad Tecnológica Nacional)** la Tecnicatura Universitaria en Programación.
 - 🔐 Mi pasión es la **Ciberseguridad**. Me estoy especializando como **Analista en Ciberseguridad**, y planeo seguir profundizando en este campo.
@@ -28,7 +28,7 @@
   </a>
 </p>
 
-### 🧑‍💻 Lenguajes de Programación
+### 💻 Lenguajes de Programación
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
