@@ -17,9 +17,6 @@
   <a href="https://instagram.com/robcabj" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
   </a>
-  <a href="https://github.com/robstradamus" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40" />
-  </a>
   <a href="https://discord.com/users/449310655221071876" target="_blank">
     <img src="https://images.icon-icons.com/3053/PNG/512/discord_macos_bigsur_icon_190238.png" alt="Discord" width="40" height="40"/>
   </a>
