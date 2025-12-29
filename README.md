@@ -1,5 +1,5 @@
 <h1 align="center"><code> return "Hola, soy Robinson"&nbsp;&nbsp;&nbsp;&nbsp;</code></h1>
-<h3 align="center"># Estudiante de Programación (UTN)</h3>
+<h3 align="center">Estudiante de Programación (UTN)</h3>
 
 ## 🖥️ Acerca de mí
 
