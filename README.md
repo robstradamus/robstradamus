@@ -1,14 +1,12 @@
-<h1 align="center"><code>def presentacion():<br>&nbsp;&nbsp;&nbsp;&nbsp; 
-  return "Hola, soy Robinson"</code></h1>
+<h1 align="center"><code> return "Hola, soy Robinson"&nbsp;&nbsp;&nbsp;&nbsp;</code></h1>
 <h3 align="center"># Estudiante de Programación (UTN)</h3>
 
 ## 🖥️ Acerca de mí
 
 - 🎓 Actualmente estudio en la **UTN (Universidad Tecnológica Nacional)** la Tecnicatura Universitaria en Programación.
 - 🔐 Mi pasión es la **Ciberseguridad**. Me estoy especializando como **Analista en Ciberseguridad**, y planeo seguir profundizando en este campo.
-- 💡 Me interesa comprender cómo funcionan los sistemas, analizar su comportamiento, detectar fallos de seguridad y aprender cómo prevenir posibles vulnerabilidades.
-- 🧠 Utilizo este espacio para documentar mi proceso de aprendizaje subiendo **proyectos y ejercicios** relacionados a Programación, y pronto sobre Seguridad.
-- 📈 Estoy en constante mejora de mis habilidades en **Python-JS**, **SQL-NoSQL**, y otras herramientas clave para el Desarrollo y la Seguridad.
+- 🧠 Utilizo este espacio para documentar mi proceso de aprendizaje subiendo **Proyectos Personales y Ejercicios** relacionados con Programación.
+- 📈 Estoy en constante mejora de mis habilidades en **Python-JavaScript**, **SQL-NoSQL**, y en otras herramientas para el Desarrollo y la Seguridad.
 
 
 ## 📫 Contacto
